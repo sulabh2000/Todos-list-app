@@ -1,7 +1,6 @@
 import React from 'react'
 
 export const Footer = () => {
-    // adding style in react
     
 
     return (
